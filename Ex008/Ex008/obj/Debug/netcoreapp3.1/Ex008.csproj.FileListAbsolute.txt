@@ -1,0 +1,12 @@
+C:\Users\Israilla\source\repos_CSHARP_avançado\POO\Ex008\Ex008\bin\Debug\netcoreapp3.1\Ex008.exe
+C:\Users\Israilla\source\repos_CSHARP_avançado\POO\Ex008\Ex008\bin\Debug\netcoreapp3.1\Ex008.deps.json
+C:\Users\Israilla\source\repos_CSHARP_avançado\POO\Ex008\Ex008\bin\Debug\netcoreapp3.1\Ex008.runtimeconfig.json
+C:\Users\Israilla\source\repos_CSHARP_avançado\POO\Ex008\Ex008\bin\Debug\netcoreapp3.1\Ex008.runtimeconfig.dev.json
+C:\Users\Israilla\source\repos_CSHARP_avançado\POO\Ex008\Ex008\bin\Debug\netcoreapp3.1\Ex008.dll
+C:\Users\Israilla\source\repos_CSHARP_avançado\POO\Ex008\Ex008\bin\Debug\netcoreapp3.1\Ex008.pdb
+C:\Users\Israilla\source\repos_CSHARP_avançado\POO\Ex008\Ex008\obj\Debug\netcoreapp3.1\Ex008.csproj.CoreCompileInputs.cache
+C:\Users\Israilla\source\repos_CSHARP_avançado\POO\Ex008\Ex008\obj\Debug\netcoreapp3.1\Ex008.AssemblyInfoInputs.cache
+C:\Users\Israilla\source\repos_CSHARP_avançado\POO\Ex008\Ex008\obj\Debug\netcoreapp3.1\Ex008.AssemblyInfo.cs
+C:\Users\Israilla\source\repos_CSHARP_avançado\POO\Ex008\Ex008\obj\Debug\netcoreapp3.1\Ex008.dll
+C:\Users\Israilla\source\repos_CSHARP_avançado\POO\Ex008\Ex008\obj\Debug\netcoreapp3.1\Ex008.pdb
+C:\Users\Israilla\source\repos_CSHARP_avançado\POO\Ex008\Ex008\obj\Debug\netcoreapp3.1\Ex008.genruntimeconfig.cache

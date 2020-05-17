@@ -1,0 +1,13 @@
+C:\Users\Israilla\source\repos\Ex003\Ex003\bin\Debug\netcoreapp3.1\Ex003.exe
+C:\Users\Israilla\source\repos\Ex003\Ex003\bin\Debug\netcoreapp3.1\Ex003.deps.json
+C:\Users\Israilla\source\repos\Ex003\Ex003\bin\Debug\netcoreapp3.1\Ex003.runtimeconfig.json
+C:\Users\Israilla\source\repos\Ex003\Ex003\bin\Debug\netcoreapp3.1\Ex003.runtimeconfig.dev.json
+C:\Users\Israilla\source\repos\Ex003\Ex003\bin\Debug\netcoreapp3.1\Ex003.dll
+C:\Users\Israilla\source\repos\Ex003\Ex003\bin\Debug\netcoreapp3.1\Ex003.pdb
+C:\Users\Israilla\source\repos\Ex003\Ex003\obj\Debug\netcoreapp3.1\Ex003.csprojAssemblyReference.cache
+C:\Users\Israilla\source\repos\Ex003\Ex003\obj\Debug\netcoreapp3.1\Ex003.csproj.CoreCompileInputs.cache
+C:\Users\Israilla\source\repos\Ex003\Ex003\obj\Debug\netcoreapp3.1\Ex003.AssemblyInfoInputs.cache
+C:\Users\Israilla\source\repos\Ex003\Ex003\obj\Debug\netcoreapp3.1\Ex003.AssemblyInfo.cs
+C:\Users\Israilla\source\repos\Ex003\Ex003\obj\Debug\netcoreapp3.1\Ex003.dll
+C:\Users\Israilla\source\repos\Ex003\Ex003\obj\Debug\netcoreapp3.1\Ex003.pdb
+C:\Users\Israilla\source\repos\Ex003\Ex003\obj\Debug\netcoreapp3.1\Ex003.genruntimeconfig.cache
